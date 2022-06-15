@@ -8,9 +8,9 @@ PRUEBA PRÁCTICA – FRONTEND
 # d) Los campos tipo de documento y número de documento, son obligatorios para habilitar el botón buscar.
 ✓ Botón activo
 ✓ Botón inactivo
-e) La segunda pantalla que debe tener la aplicación es de resumen y únicamente permitirá al cliente visualizar información, debe contar con un botón volver para regresar a la pantalla anterior.
+# e) La segunda pantalla que debe tener la aplicación es de resumen y únicamente permitirá al cliente visualizar información, debe contar con un botón volver para regresar a la pantalla anterior.
 ✓ Pantalla resumen
-Criterios de aceptación
+# Criterios de aceptación
 • Cada pantalla debe ser un componente independiente.
 • El entregable es el código fuente de la aplicación.
 • El desarrollo debe tener similitud con los diseños.
