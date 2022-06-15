@@ -1,0 +1,181 @@
+
+[
+    {
+        "id": 1,
+        "nombre": "Juan",
+        "apellido": "Luna",
+        "tipoDocumento":{
+            "Cedula":{
+                "numeroDocumento": "12.345.678"
+            },
+            "Pasaporte":{
+                "numeroDocumento": "92.345.678"
+            }
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "Pedro",
+        "apellido": "Perez",
+        "tipoDocumento":{
+            "Cedula":{
+                "numeroDocumento": "13.345.678"
+            },
+            "Pasaporte":{
+                "numeroDocumento": "93.345.678"
+            }
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "Mario",
+        "apellido": "Gomez",
+        "tipoDocumento":{
+            "Cedula":{
+                "numeroDocumento": "14.345.678"
+            },
+            "Pasaporte":{
+                "numeroDocumento": "94.345.678"
+            }
+        }
+    },
+    {
+        "id": 4,
+        "nombre": "Alvaro",
+        "apellido": "Gonzalez",
+        "tipoDocumento":{
+            "Cedula":{
+                "numeroDocumento": "15.345.678"
+            },
+            "Pasaporte":{
+                "numeroDocumento": "95.345.678"
+            }
+        }
+    },
+    {
+        "id": 5,
+        "nombre": "Jaime",
+        "apellido": "Barrera",
+        "tipoDocumento":{
+            "Cedula":{
+                "numeroDocumento": "16.345.678"
+            },
+            "Pasaporte":{
+                "numeroDocumento": "96.345.678"
+            }
+        }
+    },
+    {
+        "id": 6,
+        "nombre": "Bernanrdo",
+        "apellido": "Rodriguez",
+        "tipoDocumento":{
+            "Cedula":{
+                "numeroDocumento": "17.345.678"
+            },
+            "Pasaporte":{
+                "numeroDocumento": "97.345.678"
+            }
+        }
+    },
+
+    {
+        "id": 1,
+        "nombre": "Marina",
+        "apellido": "Velasco",
+        "tipoDocumento":{
+            "Cedula":{
+                "numeroDocumento": "22.345.678"
+            },
+            "Pasaporte":{
+                "numeroDocumento": "82.345.678"
+            }
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "Carolina",
+        "apellido": "Lopez",
+        "tipoDocumento":{
+            "Cedula":{
+                "numeroDocumento": "23.345.678"
+            },
+            "Pasaporte":{
+                "numeroDocumento": "83.345.678"
+            }
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "Martha",
+        "apellido": "Chacon",
+        "tipoDocumento":{
+            "Cedula":{
+                "numeroDocumento": "24.345.678"
+            },
+            "Pasaporte":{
+                "numeroDocumento": "84.345.678"
+            }
+        }
+    },
+    {
+        "id": 4,
+        "nombre": "Victoria",
+        "apellido": "Gonzalez",
+        "tipoDocumento":{
+            "Cedula":{
+                "numeroDocumento": "25.345.678"
+            },
+            "Pasaporte":{
+                "numeroDocumento": "85.345.678"
+            }
+        }
+    },
+    {
+        "id": 5,
+        "nombre": "Elsa",
+        "apellido": "Villamizar",
+        "tipoDocumento":{
+            "Cedula":{
+                "numeroDocumento": "26.345.678"
+            },
+            "Pasaporte":{
+                "numeroDocumento": "86.345.678"
+            }
+        }
+    },
+    {
+        "id": 6,
+        "nombre": "Jose",
+        "apellido": "Rodriguez",
+        "tipoDocumento":{
+            "Cedula":{
+                "numeroDocumento": "27.345.678"
+            },
+            "Pasaporte":{
+                "numeroDocumento": "87.345.678"
+            }
+        }
+    }
+
+
+]
+
+
+    
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
